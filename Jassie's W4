@@ -1,4 +1,3 @@
-from typing import List
 from logic import make_empty_board
 
 def print_board(board):
